@@ -6,3 +6,5 @@ SOBRE O PROJETO
 formulários, estilização e semântica.
 
 *REPOSITÓRIO DESTINADO A APRENDER A CRIAR OS MEUS PRIMEIROS REPOSITÓRIOS E COMMITS*
+# LINK:
+[Landing Page](https://jailsonvicente.github.io/Landing-Page/)
